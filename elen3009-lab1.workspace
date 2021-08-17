@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="complex/complex.cbp" />
+		<Project filename="guessing-game/guessing-game.cbp" />
+		<Project filename="screen/screen.cbp" />
+		<Project filename="stopwatch/stopwatch.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
